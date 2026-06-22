@@ -12,7 +12,7 @@ An end-to-end customer segmentation pipeline for e-commerce using **RFM analysis
 
 ## 📸 Demo
 
-> _Add screenshot after deployment: `![Demo](assets/demo.png)`_
+
 
 ---
 
