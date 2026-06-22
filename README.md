@@ -12,6 +12,10 @@ An end-to-end customer segmentation pipeline for e-commerce using **RFM analysis
 
 ## 📸 Demo
 
+<img width="1888" height="767" alt="image" src="https://github.com/user-attachments/assets/2ed718d9-4b25-407c-9766-de9971a9e833" />
+
+
+| [🛒 Taurus Customer Segmentation](https://github.com/wll-hayat04/Taurus_Customer_Segmentation_Ecom) | RFM + KMeans on 541K rows | [🚀 Live Demo]([https://tauruscustomersegmentationecom-ivd8sykracw4uvceyebxyd.streamlit.app/]) |
 
 
 ---
